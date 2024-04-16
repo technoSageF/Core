@@ -1,0 +1,29 @@
+class Template:
+  class Me:
+    class Buddha:
+      def Who(self, who): return who(self)
+      def What(self, what): return what(self)
+      def When(self, when): return when(self)
+      def Where(self, where): return where(self)
+      def Why(self, why): return why(self)
+      def How(self, how): return how(self)
+  class Public:
+    class Player:
+      def System(self): return self.system
+      class World:
+        def Version(self): return self.version
+        class Cloud:
+          def Domain(self): return self.domain
+          class Router:
+            def Node(self): return self.node
+            class Pointer:
+              def Point(self): return self.point
+  class Private:
+    class User:
+      def Matter(self): return self.matter()
+      class Energy:
+        def Particle(self): return self.point()
+      def Time(self): return self.time()
+      class Space:
+        def Rotation(self): return self.rotation()
+        
